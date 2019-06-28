@@ -55,7 +55,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://yayaploy.github.io/Laguna-Beach-Resort-2-Condominium/20190519_005.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://yayaploy.github.io/Laguna-Beach-Resort-2-Condominium/20190628_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
