@@ -86,5 +86,5 @@ body::before {
 
 <!-- フッタ -->
  <footer><span class="snow">
- Copyright 2019/05/25 torokoid
+ Copyright 2019/06/28 yayaploy
 </span></footer>
