@@ -12,7 +12,7 @@
 <style type="text/css">
 
   p {
-color: #00ffff;
+color: #0000cd;
 font-size: 2.5em;
  }
 <!--
