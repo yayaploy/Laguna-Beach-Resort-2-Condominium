@@ -6,7 +6,7 @@
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <meta name="viewport" content="width=device-width,initial-scale=1"><LINK href="favicon.ico" rel="icon">
  <TITLE>rarsya-kaomangai</TITLE>
- <meta name="keywords" content="chiangmai, Thailand, タイ, マッサージ, 古式マッサージ, チェンマイ">
+ <meta name="keywords" content="chiangmai, Thailand, pattaya">
  <meta content="website" property="og:type">
 
 <style type="text/css">
@@ -119,8 +119,8 @@ html {
 
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:+06-80-3120-0260</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<p align="left"> <img src="QR_chiangmai.png" alt="QR_code" width="100" >
+<!--
+<p align="left"> <img src="QR_chiangmai.png" alt="QR_code" width="100" >-->
 <img src="https://yayaploy.github.io/kaomangai/venus1.gif" alt="https://yayaploy.github.io/kaomangai/venus1.gif" width="50">
 <img src="https://yayaploy.github.io/kaomangai/venus3.gif" alt="https://yayaploy.github.io/kaomangai/venus3.gif" width="50"></p>
 
@@ -151,11 +151,15 @@ html {
 <a href="20190613_010.JPG" data-lightbox="abc"><img src="20190613_010.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-
+<!--
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
-
+-->
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
