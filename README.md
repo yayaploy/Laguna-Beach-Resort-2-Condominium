@@ -112,12 +112,12 @@ html {
 <body>
 <!--
 <div class="landscape-view"><img src="turn.png"></div>
--->
 
-<p align="right">Laguna-Beach-Resort-2-Condominium</p>
+<!--
+<p align="right">Laguna-Beach-Resort-2-Condominium</p>-->
 <h1><span class="yellow"><marquee behavior="lrft">!!!Laguna-Beach-Resort-2-Condominium!!!</marquee></span></h1>
 
-<p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:+06-80-3120-0260</marquee></p>
+<p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:+81-80-3120-0260</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 <p align="left"> <img src="QR_chiangmai.png" alt="QR_code" width="100" >-->
@@ -151,10 +151,7 @@ html {
 <a href="20190613_010.JPG" data-lightbox="abc"><img src="20190613_010.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 <!--
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
