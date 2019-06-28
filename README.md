@@ -116,9 +116,10 @@ html {
 
 <p align="right">Laguna-Beach-Resort-2-Condominium</p>
 <h1><span class="yellow"><marquee behavior="lrft">!!!Laguna-Beach-Resort-2-Condominium!!!</marquee></span></h1>
-<!--
-<p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:028-634-0158</marquee></p>
+
+<p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:+06-80-3120-0260</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <p align="left"> <img src="QR_chiangmai.png" alt="QR_code" width="100" >
 <img src="https://yayaploy.github.io/kaomangai/venus1.gif" alt="https://yayaploy.github.io/kaomangai/venus1.gif" width="50">
 <img src="https://yayaploy.github.io/kaomangai/venus3.gif" alt="https://yayaploy.github.io/kaomangai/venus3.gif" width="50"></p>
