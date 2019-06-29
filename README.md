@@ -55,7 +55,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://yayaploy.github.io/Laguna-Beach-Resort-2-Condominium/20190629_003.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://yayaploy.github.io/Laguna-Beach-Resort-2-Condominium/20190628_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -110,8 +110,8 @@ html {
 </head>
 
 <body>
-
-<div class="landscape-view"><img src="turn.png"></div>
+<!--
+<div class="landscape-view"><img src="turn.png"></div>-->
 
 <!--
 <p align="right">Laguna-Beach-Resort-2-Condominium</p>-->
@@ -126,7 +126,7 @@ html {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3><span class="white">↓ 2019/06/28</span></h3>
-<a href="20190628_001.jpg" data-lightbox="abc"><img src="20190628_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_003.jpg" data-lightbox="abc"><img src="20190629_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190629_002.jpg" data-lightbox="abc"><img src="20190629_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190629_004.jpg" data-lightbox="abc"><img src="20190629_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190629_005.jpg" data-lightbox="abc"><img src="20190629_005.jpg" alt="サンプル画像" width="900" /></a>
