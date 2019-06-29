@@ -110,7 +110,7 @@ html {
 </head>
 
 <body>
-<!--
+
 <div class="landscape-view"><img src="turn.png"></div>
 
 <!--
@@ -118,12 +118,12 @@ html {
 <h1><span class="yellow"><marquee behavior="lrft">!!!Laguna-Beach-Resort-2-Condominium!!!</marquee></span></h1>
 
 <p align="right"><marquee direction="left" scrollamount="5" width="100%">TEL:+81-80-3120-0260</marquee></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<p align="left"> <img src="QR_laguna.png" alt="QR_code" width="100" ></p>
+<p align="left"> <img src="QR_laguna.png" alt="QR_code" width="100" >
 <img src="https://yayaploy.github.io/kaomangai/venus1.gif" alt="https://yayaploy.github.io/kaomangai/venus1.gif" width="50">
 <img src="https://yayaploy.github.io/kaomangai/venus3.gif" alt="https://yayaploy.github.io/kaomangai/venus3.gif" width="50">
-
+</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3><span class="white">↓ 2019/06/28</span></h3>
 <a href="20190628_001.jpg" data-lightbox="abc"><img src="20190628_001.jpg" alt="サンプル画像" width="900" /></a>
