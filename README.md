@@ -119,44 +119,40 @@ html {
 
 <p align="right"><marquee direction="left" scrollamount="5" width="100%">TEL:+81-80-3120-0260</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<!--
-<p align="left"> <img src="QR_chiangmai.png" alt="QR_code" width="100" ></p>-->
+
+<p align="left"> <img src="QR_laguna.png" alt="QR_code" width="100" ></p>
 <img src="https://yayaploy.github.io/kaomangai/venus1.gif" alt="https://yayaploy.github.io/kaomangai/venus1.gif" width="50">
 <img src="https://yayaploy.github.io/kaomangai/venus3.gif" alt="https://yayaploy.github.io/kaomangai/venus3.gif" width="50">
 
-<!--
-<h3><span class="white">↓ 2019/05/19</span></h3>
-<a href="20190519_001.JPG" data-lightbox="abc"><img src="20190519_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190519_004.JPG" data-lightbox="abc"><img src="20190519_004.JPG" alt="サンプル画像" width="900" /></a>
-<!--
-<a href="20190519_003.JPG" data-lightbox="abc"><img src="20190519_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190519_002.JPG" data-lightbox="abc"><img src="20190519_002.JPG" alt="サンプル画像" width="900" /></a>
-<!--
-<a href="20190519_005.JPG" data-lightbox="abc"><img src="20190519_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190519_006.JPG" data-lightbox="abc"><img src="20190519_006.JPG" alt="サンプル画像" width="900" /></a>
-<!--
-<a href="20190613_001.JPG" data-lightbox="abc"><img src="20190613_001.JPG" alt="サンプル画像" width="900" /></a>
-<!--
-<a href="20190613_002.JPG" data-lightbox="abc"><img src="20190613_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_003.JPG" data-lightbox="abc"><img src="20190613_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_004.JPG" data-lightbox="abc"><img src="20190613_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_005.JPG" data-lightbox="abc"><img src="20190613_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_006.JPG" data-lightbox="abc"><img src="20190613_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_007.JPG" data-lightbox="abc"><img src="20190613_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_008.JPG" data-lightbox="abc"><img src="20190613_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190618_002.JPG" data-lightbox="abc"><img src="20190618_002.JPG" alt="サンプル画像" width="900" /></a>
-<br><br><br><br>
-<p>駐車場はお店の左側です。</p>
-<a href="20190613_009.JPG" data-lightbox="abc"><img src="20190613_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_010.JPG" data-lightbox="abc"><img src="20190613_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white">↓ 2019/06/28</span></h3>
+<a href="20190629_002.jpg" data-lightbox="abc"><img src="20190629_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_003.jpg" data-lightbox="abc"><img src="20190629_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_004.jpg" data-lightbox="abc"><img src="20190629_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_005.jpg" data-lightbox="abc"><img src="20190629_005.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_006.jpg" data-lightbox="abc"><img src="20190629_006.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_007.jpg" data-lightbox="abc"><img src="20190629_007.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_008.jpg" data-lightbox="abc"><img src="20190629_008.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_009.jpg" data-lightbox="abc"><img src="20190629_009.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_010.jpg" data-lightbox="abc"><img src="20190629_010.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_011.jpg" data-lightbox="abc"><img src="20190629_011.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_012.jpg" data-lightbox="abc"><img src="20190629_012.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_013.jpg" data-lightbox="abc"><img src="20190629_013.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_014.jpg" data-lightbox="abc"><img src="20190629_014.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_015.jpg" data-lightbox="abc"><img src="20190629_015.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_016.jpg" data-lightbox="abc"><img src="20190629_016.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_017.jpg" data-lightbox="abc"><img src="20190629_017.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_018.jpg" data-lightbox="abc"><img src="20190629_018.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_019.jpg" data-lightbox="abc"><img src="20190629_019.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_020.jpg" data-lightbox="abc"><img src="20190629_020.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<!--
+
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
--->
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
