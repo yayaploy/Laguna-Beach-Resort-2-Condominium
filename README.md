@@ -119,7 +119,7 @@ html {
 
 <p align="right"><marquee direction="left" scrollamount="5" width="100%">ให้เช่า,TEL:+81-80-3120-0260</marquee></p>
 
-<p align="right">LINE,Link<img src="QR_Thai.jpg" alt="QR_code" width="100" > HP,Link<img src="QR_laguna.png" alt="QR_code" width="100" >
+<p align="left">LINE,Link<img src="QR_thai.jpg" alt="QR_code" width="100" > <p align="right">HP,Link<img src="QR_laguna.png" alt="QR_code" width="100" >
 <img src="https://yayaploy.github.io/kaomangai/venus1.gif" alt="https://yayaploy.github.io/kaomangai/venus1.gif" width="50">
 <img src="https://yayaploy.github.io/kaomangai/venus3.gif" alt="https://yayaploy.github.io/kaomangai/venus3.gif" width="50">
 </p>
