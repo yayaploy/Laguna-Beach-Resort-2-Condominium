@@ -119,7 +119,7 @@ html {
 
 <p><h1><span class="yellow"><marquee direction="left" scrollamount="5" width="100%">ให้เช่า,レンタルルーム連絡先（LINEでも可）、TEL:+81-80-3120-0260、<a href="mailto:renarumon@gmail.com">e-mail,click</a></marquee></span></h1></p>
 
-<p align="left"><img src="https://yayaploy.github.io/Laguna-Beach-Resort-2-Condominium/QR_thai.jpg" alt="QR_code" width="100" >LINE,Link <br>HP,Link<img src="QR_laguna.png" alt="QR_code" width="100" >
+<p align="left"><img src="https://yayaploy.github.io/Laguna-Beach-Resort-2-Condominium/QR_thai.jpg" alt="QR_code" width="100" >←LINE,Link <img src="QR_laguna.png" alt="QR_code" width="100" >←HP,Link
 <img src="https://yayaploy.github.io/kaomangai/venus1.gif" alt="https://yayaploy.github.io/kaomangai/venus1.gif" width="50">
 <img src="https://yayaploy.github.io/kaomangai/venus3.gif" alt="https://yayaploy.github.io/kaomangai/venus3.gif" width="50">
 </p>
@@ -145,6 +145,9 @@ html {
 <a href="20190629_018.jpg" data-lightbox="abc"><img src="20190629_018.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190629_019.jpg" data-lightbox="abc"><img src="20190629_019.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190629_020.jpg" data-lightbox="abc"><img src="20190629_020.jpg" alt="サンプル画像" width="900" /></a>
+
+<a href="20191126_015.JPG" data-lightbox="abc"><img src="20191126_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191126_016.JPG" data-lightbox="abc"><img src="20191126_016.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
